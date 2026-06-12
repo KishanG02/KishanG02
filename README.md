@@ -336,31 +336,11 @@ Worked on analytics, dashboard development, and customer behavior analysis.
 
 ---
 
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KishanG02&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
 # Contribution Activity
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KishanG02&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/KishanG02/KishanG02/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
