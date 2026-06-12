@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Generative+AI+Engineer;Software+Engineer;Building+LLM-Powered+Applications;Cloud+%26+Data+Engineering+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Generative+AI+Engineer;Data+Scientist;Building+LLM-Powered+Applications;Cloud+%26+Data+Engineering+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 
 <br/>
 
@@ -16,10 +16,6 @@
 ![Location](https://img.shields.io/badge/Location-Gurugram%2C%20India-4B0082?style=for-the-badge)
 
 <br/><br/>
-
-<a href="https://portfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
 
 <a href="https://linkedin.com/in/krishnag0211">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-6A5ACD?style=for-the-badge&logo=linkedin&logoColor=white"/>
