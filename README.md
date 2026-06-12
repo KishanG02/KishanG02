@@ -56,7 +56,6 @@ My engineering philosophy combines software craftsmanship, AI innovation, cloud-
 * Large Language Models (LLMs)
 * Retrieval Augmented Generation (RAG)
 * AI Agents & Agentic Workflows
-* Full Stack Product Development
 * Data Engineering Pipelines
 * Cloud & DevOps Engineering
 * Enterprise Automation
@@ -64,10 +63,13 @@ My engineering philosophy combines software craftsmanship, AI innovation, cloud-
 
 ### Open To
 
-* Software Engineering Opportunities
 * Generative AI Engineering Roles
 * AI Product Development
-* Cloud Engineering Roles
+* GenAI Engineers
+* AI Engineers
+* Data Engineers
+* Data Scientists
+* ML Engineers
 * Open Source Collaborations
 * Technical Writing & Community Contributions
 
@@ -78,25 +80,19 @@ My engineering philosophy combines software craftsmanship, AI innovation, cloud-
 ## Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,sql,bash" />
-</p>
-
-## Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,streamlit" />
+<img src="https://skillicons.dev/icons?i=python,java,sql,bash" />
 </p>
 
 ## Backend & Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,postgres,mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=django,fastapi,postgres,mysql,mongodb" />
 </p>
 
 ## Cloud, DevOps & Tooling
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kafka,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kafka,git,github,linux,vscode" />
 </p>
 
 ---
@@ -275,7 +271,7 @@ Working on enterprise automation, infrastructure analytics, ServiceNow integrati
 
 **Skills**
 
-`Python` `Java` `Django` `ServiceNow` `AI` `Automation` `Grafana` `Analytics`
+`Python` `SQL` `Django` `ServiceNow` `AI` `Automation` `Grafana` `Analytics`
 
 ---
 
@@ -316,22 +312,6 @@ Worked on analytics, dashboard development, and customer behavior analysis.
 
 # Certifications
 
-## AWS
-
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge)
-
-## Oracle
-
-![Oracle SQL](https://img.shields.io/badge/Oracle-SQL-Red?style=for-the-badge)
-
-## NPTEL
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Certified-blue?style=for-the-badge)
-
-## Cisco
-
-![Cisco Networking](https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge)
-
 ## Microsoft
 
 ![AI-102](https://img.shields.io/badge/AI--102-Azure%20AI%20Engineer-6A5ACD?style=for-the-badge)
@@ -339,30 +319,6 @@ Worked on analytics, dashboard development, and customer behavior analysis.
 ![AI-900](https://img.shields.io/badge/AI--900-Azure%20AI%20Fundamentals-8A2BE2?style=for-the-badge)
 
 ![AZ-900](https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-4B0082?style=for-the-badge)
-
----
-
-# Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com">
-<img src="https://img.shields.io/badge/HackerRank-Verified-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com">
-<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge"/>
-</a>
-
-</div>
 
 ---
 
@@ -436,10 +392,13 @@ Exploring:
   - Multi-Agent Systems
 
 Open To:
-  - Software Engineering Roles
   - Generative AI Engineering Roles
-  - Cloud Engineering Opportunities
-  - Open Source Collaboration
+  - AI Product Development
+  - GenAI Engineers
+  - AI Engineers
+  - Data Engineers
+  - Data Scientists
+  - ML Engineers
 ```
 
 ---
@@ -458,10 +417,6 @@ Open To:
 
 <a href="https://github.com/KishanG02">
 <img src="https://img.shields.io/badge/GitHub-KishanG02-4B0082?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://portfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
