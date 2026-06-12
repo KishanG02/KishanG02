@@ -1,34 +1,45 @@
-# 👋 Hi, I'm Krishna Gupta
+# <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4B0082,50:6A5ACD,100:8A2BE2&text=Krishna%20Gupta&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Generative%20AI%20Engineer%20%7C%20Software%20Engineer%20%7C%20Cloud%20Enthusiast&descAlignY=58&descAlign=50" width="100%"/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:6D28D9,50:7C3AED,100:4F46E5&text=Krishna%20Gupta&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter\&weight=600\&size=28\&duration=3500\&pause=1000\&color=8B5CF6\&center=true\&vCenter=true\&width=1000\&lines=Generative+AI+Engineer;AI%2FML+Engineer;Data+Engineer;Data+Scientist;Building+Enterprise+AI+Systems+%26+LLM+Applications;RAG+%7C+Agentic+AI+%7C+Data+Engineering+%7C+MLOps)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Generative+AI+Engineer;Software+Engineer;Building+LLM-Powered+Applications;Cloud+%26+Data+Engineering+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 
 <br/>
 
-![](https://img.shields.io/badge/Microsoft-AI--102-5B21B6?style=for-the-badge\&logo=microsoft\&logoColor=white)
-![](https://img.shields.io/badge/Microsoft-AI--900-4F46E5?style=for-the-badge\&logo=microsoft\&logoColor=white)
-![](https://img.shields.io/badge/Microsoft-AZ--900-4338CA?style=for-the-badge\&logo=microsoft\&logoColor=white)
+![B.Tech](https://img.shields.io/badge/B.Tech-Computer%20Science-6A5ACD?style=for-the-badge)
+![Azure AI Engineer](https://img.shields.io/badge/Azure-AI%20Engineer%20Associate-4B0082?style=for-the-badge)
+![Azure Fundamentals](https://img.shields.io/badge/AZ--900-Certified-6A5ACD?style=for-the-badge)
+![AI Enthusiast](https://img.shields.io/badge/AI-Engineer-8A2BE2?style=for-the-badge)
 
-![](https://img.shields.io/badge/Gurugram-Haryana-6D28D9?style=for-the-badge\&logo=googlemaps\&logoColor=white)
+<br/>
+
+![Location](https://img.shields.io/badge/Location-Gurugram%2C%20India-4B0082?style=for-the-badge)
+
+<br/><br/>
+
+<a href="https://portfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 <a href="https://linkedin.com/in/krishnag0211">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-6A5ACD?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:Krishna0211gupta@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-4B0082?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/KishanG02">
-<img src="https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-![](https://komarev.com/ghpvc/?username=KishanG02\&style=for-the-badge\&color=6D28D9)
-![](https://img.shields.io/github/followers/KishanG02?style=for-the-badge\&color=4F46E5)
-![](https://img.shields.io/github/stars/KishanG02?affiliations=OWNER\&style=for-the-badge\&color=7C3AED)
+<br/><br/>
+
+![](https://komarev.com/ghpvc/?username=KishanG02\&style=for-the-badge\&color=6A5ACD)
+
+![](https://img.shields.io/github/followers/KishanG02?style=for-the-badge\&color=8A2BE2)
+
+![](https://img.shields.io/github/stars/KishanG02?style=for-the-badge\&color=4B0082)
 
 </div>
 
@@ -36,38 +47,29 @@
 
 # About Me
 
-I'm a **Generative AI Engineer** with experience designing and building production-grade AI systems, LLM-powered applications, data engineering pipelines, and enterprise automation solutions.
+Generative AI Engineer and Software Engineer with experience building enterprise-grade AI solutions, LLM-powered applications, scalable backend systems, and data engineering platforms. Currently working at Tata Consultancy Services, where I design intelligent automation workflows, infrastructure analytics solutions, and AI-driven operational tooling.
 
-Currently working at **Tata Consultancy Services (TCS)**, where I contribute to infrastructure automation, ServiceNow-integrated enterprise solutions, intelligent analytics, and scalable AI workflows.
+My engineering philosophy combines software craftsmanship, AI innovation, cloud-native architectures, and product-focused thinking. I enjoy transforming complex business problems into scalable, maintainable, and production-ready solutions.
 
-My expertise spans:
+### Core Areas
 
 * Large Language Models (LLMs)
-* Retrieval-Augmented Generation (RAG)
-* Agentic AI Systems
-* AI Workflow Automation
-* Data Engineering Platforms
-* Machine Learning & Deep Learning
-* Enterprise Software Engineering
-* Cloud-Native AI Applications
-
-I enjoy building systems that combine:
-
-* AI + Data Engineering
-* GenAI + Automation
-* ML + Product Engineering
-* LLMs + Business Value
+* Retrieval Augmented Generation (RAG)
+* AI Agents & Agentic Workflows
+* Full Stack Product Development
+* Data Engineering Pipelines
+* Cloud & DevOps Engineering
+* Enterprise Automation
+* Applied Machine Learning
 
 ### Open To
 
-* Generative AI Engineer
-* AI Engineer
-* AI/ML Engineer
-* LLM Engineer
-* Data Engineer
-* Data Scientist
-* Machine Learning Engineer
-* Software Engineer (AI-Focused)
+* Software Engineering Opportunities
+* Generative AI Engineering Roles
+* AI Product Development
+* Cloud Engineering Roles
+* Open Source Collaborations
+* Technical Writing & Community Contributions
 
 ---
 
@@ -76,229 +78,179 @@ I enjoy building systems that combine:
 ## Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,mysql,git,linux" />
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,sql,bash" />
 </p>
 
 ## Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,streamlit" />
 </p>
 
 ## Backend & Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=django,fastapi" />
+<img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,postgres,mysql,mongodb" />
 </p>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker" />
-</p>
-
-## AI / ML / GenAI
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-**Additional Expertise**
-
-* LangChain
-* LlamaIndex
-* OpenAI API
-* Groq API
-* HuggingFace Transformers
-* RAG Architecture
-* FAISS
-* ChromaDB
-* Prompt Engineering
-* Vector Databases
-* NLP
-* CNNs
-* RNNs
-* Predictive Modeling
 
 ## Cloud, DevOps & Tooling
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,github" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kafka,git,github,linux,vscode" />
 </p>
-
-**Platform Experience**
-
-* Apache Kafka
-* Apache Airflow
-* MinIO Data Lake
-* Streamlit
-* Grafana
-* Tableau
-* Power BI
-* ServiceNow
-* CI/CD Pipelines
 
 ---
 
 # AI / ML Expertise
 
-| Domain                 | Proficiency | Details                                          |
-| ---------------------- | ----------- | ------------------------------------------------ |
-| Generative AI          | Expert      | LangChain, LlamaIndex, OpenAI, Groq, HuggingFace |
-| LLM Engineering        | Expert      | Prompt Engineering, RAG, Context Management      |
-| Agentic AI             | Advanced    | Multi-Agent Systems, Workflow Automation         |
-| NLP                    | Advanced    | Transformers, Text Analytics, Semantic Search    |
-| Machine Learning       | Advanced    | Scikit-Learn, Forecasting, Classification        |
-| Deep Learning          | Advanced    | TensorFlow, PyTorch, CNNs, RNNs                  |
-| Data Engineering       | Advanced    | Kafka, Airflow, MinIO Data Lake                  |
-| AI Product Engineering | Advanced    | Enterprise AI Applications & Deployment          |
+| Domain                         | Proficiency  | Details                                        |
+| ------------------------------ | ------------ | ---------------------------------------------- |
+| Large Language Models          | Advanced     | OpenAI, Groq, Llama Models, Prompt Engineering |
+| Agentic AI Systems             | Advanced     | Multi-Agent Architectures, Workflow Automation |
+| Retrieval Augmented Generation | Advanced     | LangChain, LlamaIndex, ChromaDB, FAISS         |
+| NLP                            | Advanced     | Text Processing, Embeddings, Semantic Search   |
+| Deep Learning                  | Intermediate | CNNs, RNNs, TensorFlow, PyTorch                |
+| MLOps                          | Intermediate | Model Deployment, Monitoring, Optimization     |
+| Data Engineering               | Advanced     | Kafka, Airflow, Data Lakes, ETL Pipelines      |
+| AI Product Engineering         | Advanced     | End-to-End AI Applications                     |
 
 ---
 
 # Featured Projects
 
 <details>
-<summary><b>🚀 Tech Trend Intelligence Platform</b></summary>
+<summary><b>Tech Trend Intelligence Platform</b></summary>
 
-### Enterprise AI + Data Engineering Platform
+### Overview
 
-| Category    | Details                                 |
-| ----------- | --------------------------------------- |
-| Stack       | Kafka, Airflow, MinIO, Groq, Streamlit  |
-| Scale       | Real-Time Multi-Source Data Ingestion   |
-| Performance | Automated AI Insight Generation         |
-| Security    | API-Based Secure Integrations           |
-| Impact      | Executive-Level Technology Intelligence |
-| Repository  | Available on GitHub                     |
+Real-time AI-powered technology intelligence platform combining data engineering, machine learning, and LLM-driven analytics.
 
-Built a real-time trend intelligence platform that collects data from News APIs and YouTube, processes it through Apache Kafka pipelines, orchestrates workflows using Airflow DAGs, stores data in a MinIO Data Lake, and generates executive insights using Groq LLMs.
+| Category    | Details                                        |
+| ----------- | ---------------------------------------------- |
+| Stack       | Kafka, Airflow, MinIO, Groq, Streamlit, Plotly |
+| Scale       | Multi-source data ingestion                    |
+| Performance | Real-time analytics pipelines                  |
+| Security    | Secure API integrations                        |
+| Impact      | Executive-level trend intelligence             |
+| Repository  | Coming Soon                                    |
 
-Features include:
+### Highlights
 
-* AI Executive Summaries
-* Trend Forecasting
-* Sentiment Analysis
-* Emerging Technology Discovery
-* Interactive Analytics Dashboard
-* Streamlit Deployment
+* Real-time News & YouTube ingestion
+* Apache Kafka streaming architecture
+* Airflow orchestration
+* MinIO Data Lake
+* AI-generated executive summaries
+* Trend forecasting engine
+* Sentiment analytics
+* Interactive dashboards
 
 </details>
 
 <details>
-<summary><b>🤖 AI Resume Intelligence Platform</b></summary>
+<summary><b>AI Resume Intelligence Platform</b></summary>
 
-### End-to-End GenAI Resume Optimization System
+### Overview
+
+Enterprise-grade resume optimization platform powered by LLMs and ATS intelligence.
 
 | Category    | Details                               |
 | ----------- | ------------------------------------- |
 | Stack       | Python, Streamlit, Groq, Scikit-Learn |
-| Scale       | ATS Optimization Engine               |
-| Performance | Real-Time Resume Analysis             |
-| Security    | Secure API Integrations               |
-| Impact      | Improved ATS Readiness                |
-| Repository  | Available on GitHub                   |
+| Scale       | Multi-format document support         |
+| Performance | Real-time ATS evaluation              |
+| Security    | Secure document processing            |
+| Impact      | Improved candidate visibility         |
+| Repository  | Public                                |
 
-Features:
+### Highlights
 
-* ATS Score Analysis
-* Resume Rewriting
-* Keyword Gap Detection
-* Cover Letter Generation
-* Interview Question Prediction
-* PDF Export Engine
+* ATS scoring engine
+* Resume rewriting
+* Keyword gap analysis
+* Cover letter generation
+* Interview prediction
+* PDF/DOCX support
+* ATS-ready export system
 
 </details>
 
 <details>
-<summary><b>📚 Multi-Document RAG Chatbot</b></summary>
+<summary><b>Multi-Document RAG Chatbot</b></summary>
 
-### Enterprise Knowledge Assistant
+### Overview
+
+Context-aware knowledge assistant using Retrieval Augmented Generation.
+
+| Category    | Details                         |
+| ----------- | ------------------------------- |
+| Stack       | LangChain, ChromaDB, OpenAI     |
+| Scale       | Multi-document corpus           |
+| Performance | Semantic retrieval              |
+| Security    | Source-grounded responses       |
+| Impact      | Knowledge management automation |
+| Repository  | Public                          |
+
+### Highlights
+
+* Semantic search
+* Multi-turn memory
+* Vector databases
+* Source attribution
+* PDF processing pipeline
+* Production-ready architecture
+
+</details>
+
+<details>
+<summary><b>Fast Groq AI Agent</b></summary>
+
+### Overview
+
+Ultra-fast AI assistant leveraging Groq LPU inference.
 
 | Category    | Details                     |
 | ----------- | --------------------------- |
-| Stack       | LangChain, ChromaDB, OpenAI |
-| Scale       | Multi-Document Retrieval    |
-| Performance | Semantic Search             |
-| Security    | Source Attribution          |
-| Impact      | Knowledge Discovery         |
-| Repository  | Available on GitHub         |
+| Stack       | Groq, Streamlit, Python     |
+| Scale       | Multi-model support         |
+| Performance | Low-latency inference       |
+| Security    | Secure API handling         |
+| Impact      | Real-time conversational AI |
+| Repository  | Public                      |
 
-Capabilities:
+### Highlights
 
-* Semantic Search
-* Context-Aware Q&A
-* Multi-Turn Memory
-* Document Embeddings
-* Vector Database Search
-* Source Referencing
-
-</details>
-
-<details>
-<summary><b>⚡ Fast Groq AI Agent</b></summary>
-
-### Ultra-Fast LLM Assistant
-
-| Category    | Details                  |
-| ----------- | ------------------------ |
-| Stack       | Groq API, Streamlit      |
-| Scale       | Real-Time Inference      |
-| Performance | Low-Latency Responses    |
-| Security    | Secure Key Management    |
-| Impact      | Production-Ready AI Chat |
-| Repository  | Available on GitHub      |
-
-Features:
-
-* Streaming Responses
-* Session Memory
-* Model Switching
-* LLaMA Integration
-* Mixtral Support
+* Token streaming
+* Session memory
+* Multi-model routing
+* Production deployment
+* Enterprise architecture
 
 </details>
 
 <details>
-<summary><b>📊 Social Media Sentiment & Trend Engine</b></summary>
+<summary><b>Stock AI Analyst</b></summary>
 
-### Data Engineering + AI Analytics Platform
+### Overview
 
-| Category    | Details                          |
-| ----------- | -------------------------------- |
-| Stack       | Kafka, Airflow, VADER, Streamlit |
-| Scale       | Large Data Processing            |
-| Performance | Real-Time Insights               |
-| Security    | API Data Collection              |
-| Impact      | Social Trend Intelligence        |
-| Repository  | Available on GitHub              |
+Machine learning-powered stock intelligence and forecasting platform.
 
-Features:
+| Category    | Details                               |
+| ----------- | ------------------------------------- |
+| Stack       | Python, Scikit-Learn, LSTM, Streamlit |
+| Scale       | Financial market analysis             |
+| Performance | Predictive analytics                  |
+| Security    | Secure data processing                |
+| Impact      | Better investment insights            |
+| Repository  | Public                                |
 
-* Trend Detection
-* Sentiment Analysis
-* Forecasting
-* Interactive Dashboards
+### Highlights
 
-</details>
-
-<details>
-<summary><b>📈 Stock AI Analyst</b></summary>
-
-### Intelligent Stock Analysis Platform
-
-| Category    | Details                     |
-| ----------- | --------------------------- |
-| Stack       | Python, ML, LLMs, Streamlit |
-| Scale       | Financial Data Analysis     |
-| Performance | Predictive Analytics        |
-| Security    | Secure Data Handling        |
-| Impact      | Investment Intelligence     |
-| Repository  | Available on GitHub         |
-
-Features:
-
-* Stock Forecasting
-* Technical Indicators
-* AI Analysis
-* Interactive Visualizations
+* Technical indicators
+* AI-powered recommendations
+* Forecasting models
+* Interactive visualizations
+* Financial intelligence dashboard
 
 </details>
 
@@ -310,22 +262,20 @@ Features:
 
 **May 2024 – Present**
 
-Designing enterprise-scale AI solutions, automation systems, and ServiceNow-integrated analytics platforms.
+Working on enterprise automation, infrastructure analytics, ServiceNow integrations, and AI-powered operational solutions.
 
 ### Scope of Work
 
-* AI Pipeline Development
-* Enterprise Automation
-* ServiceNow Workflow Engineering
-* Incident Analytics
-* Infrastructure Intelligence
-* Dashboard Engineering
-* NLP-Based Log Analysis
-* KPI Reporting Solutions
+* Built scalable AI-powered infrastructure analytics solutions
+* Developed ServiceNow workflow automation systems
+* Designed Django-based internal enterprise tools
+* Implemented NLP pipelines for incident intelligence
+* Delivered dashboarding and KPI monitoring solutions
+* Collaborated with infrastructure and operations teams
 
 **Skills**
 
-`Python` `Java` `ServiceNow` `Django` `Grafana` `AI Engineering` `Automation`
+`Python` `Java` `Django` `ServiceNow` `AI` `Automation` `Grafana` `Analytics`
 
 ---
 
@@ -333,19 +283,18 @@ Designing enterprise-scale AI solutions, automation systems, and ServiceNow-inte
 
 **Jan 2023 – Apr 2023**
 
-Worked on analytics initiatives focused on customer behavior, dashboarding, and business intelligence.
+Worked on analytics, dashboard development, and customer behavior analysis.
 
 ### Scope of Work
 
-* Exploratory Data Analysis
-* Dashboard Development
-* KPI Tracking
-* Data Visualization
-* Business Intelligence
+* Built business intelligence dashboards
+* Performed exploratory data analysis
+* Generated actionable business insights
+* Collaborated with cross-functional teams
 
 **Skills**
 
-`Power BI` `Analytics` `EDA` `SQL` `Visualization`
+`Analytics` `SQL` `Python` `Power BI` `Data Visualization`
 
 ---
 
@@ -353,13 +302,13 @@ Worked on analytics initiatives focused on customer behavior, dashboarding, and 
 
 <div align="center">
 
-| Recognition                 | Details                            |
-| --------------------------- | ---------------------------------- |
-| On The Spot Award           | Tata Consultancy Services          |
-| On The Spot Award           | Tata Consultancy Services          |
-| On The Spot Award           | Tata Consultancy Services          |
-| Elevate Wings Award         | Talent Development Program         |
-| Enterprise AI Contributions | Infrastructure Automation Projects |
+| Recognition                 | Details                        |
+| --------------------------- | ------------------------------ |
+| On The Spot Award           | Tata Consultancy Services (3x) |
+| Elevate Wings Award         | Talent Development Recognition |
+| Azure AI Engineer Associate | Microsoft Certified            |
+| Azure AI Fundamentals       | Microsoft Certified            |
+| Azure Fundamentals          | Microsoft Certified            |
 
 </div>
 
@@ -367,29 +316,29 @@ Worked on analytics initiatives focused on customer behavior, dashboarding, and 
 
 # Certifications
 
-## Microsoft
-
-![](https://img.shields.io/badge/AI--102-Azure_AI_Engineer_Associate-6D28D9?style=for-the-badge)
-
-![](https://img.shields.io/badge/AI--900-Azure_AI_Fundamentals-4F46E5?style=for-the-badge)
-
-![](https://img.shields.io/badge/AZ--900-Azure_Fundamentals-4338CA?style=for-the-badge)
-
 ## AWS
 
-![](https://img.shields.io/badge/AWS-Learning_Path-6D28D9?style=for-the-badge\&logo=amazonaws)
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge)
 
 ## Oracle
 
-![](https://img.shields.io/badge/Oracle-Database_Fundamentals-4F46E5?style=for-the-badge\&logo=oracle)
+![Oracle SQL](https://img.shields.io/badge/Oracle-SQL-Red?style=for-the-badge)
 
 ## NPTEL
 
-![](https://img.shields.io/badge/NPTEL-Engineering_Courses-4338CA?style=for-the-badge)
+![NPTEL](https://img.shields.io/badge/NPTEL-Certified-blue?style=for-the-badge)
 
 ## Cisco
 
-![](https://img.shields.io/badge/Cisco-Networking_Fundamentals-312E81?style=for-the-badge\&logo=cisco)
+![Cisco Networking](https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge)
+
+## Microsoft
+
+![AI-102](https://img.shields.io/badge/AI--102-Azure%20AI%20Engineer-6A5ACD?style=for-the-badge)
+
+![AI-900](https://img.shields.io/badge/AI--900-Azure%20AI%20Fundamentals-8A2BE2?style=for-the-badge)
+
+![AZ-900](https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-4B0082?style=for-the-badge)
 
 ---
 
@@ -397,20 +346,20 @@ Worked on analytics initiatives focused on customer behavior, dashboarding, and 
 
 <div align="center">
 
-<a href="#">
-<img src="https://img.shields.io/badge/LeetCode-Problem_Solver-6D28D9?style=for-the-badge&logo=leetcode"/>
+<a href="https://leetcode.com">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Coding_Profile-4F46E5?style=for-the-badge&logo=geeksforgeeks"/>
+<a href="https://www.geeksforgeeks.org">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/HackerRank-Verified_Profile-4338CA?style=for-the-badge&logo=hackerrank"/>
+<a href="https://www.hackerrank.com">
+<img src="https://img.shields.io/badge/HackerRank-Verified-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/CodeChef-Competitive_Programming-312E81?style=for-the-badge&logo=codechef"/>
+<a href="https://www.codechef.com">
+<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge"/>
 </a>
 
 </div>
@@ -421,11 +370,15 @@ Worked on analytics initiatives focused on customer behavior, dashboarding, and 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KishanG02&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KishanG02&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KishanG02&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishanG02&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishanG02&layout=compact&theme=tokyonight"/>
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KishanG02&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -435,7 +388,7 @@ Worked on analytics initiatives focused on customer behavior, dashboarding, and 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=KishanG02&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=KishanG02&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </div>
 
@@ -445,7 +398,7 @@ Worked on analytics initiatives focused on customer behavior, dashboarding, and 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KishanG02&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KishanG02&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -466,29 +419,27 @@ Worked on analytics initiatives focused on customer behavior, dashboarding, and 
 ```yaml
 Learning:
   - Advanced Agentic AI Systems
-  - Multi-Agent Architectures
-  - Enterprise RAG
-  - AI System Design
+  - Distributed AI Architectures
+  - MLOps & AI Infrastructure
+  - Cloud Native Engineering
 
 Building:
-  - AI Engineering Portfolio
-  - Agentic AI Projects
-  - Data Engineering Platforms
-  - LLM Applications
+  - AI Software Engineering Team
+  - Enterprise AI Agents
+  - Real-Time Data Platforms
+  - GenAI Products
 
 Exploring:
   - MCP Servers
-  - AI Infrastructure
-  - Inference Optimization
-  - Enterprise Automation
+  - AI Operating Systems
+  - Autonomous Workflows
+  - Multi-Agent Systems
 
-Open_To:
-  - Generative AI Engineer
-  - AI Engineer
-  - AI/ML Engineer
-  - Data Engineer
-  - Data Scientist
-  - LLM Engineer
+Open To:
+  - Software Engineering Roles
+  - Generative AI Engineering Roles
+  - Cloud Engineering Opportunities
+  - Open Source Collaboration
 ```
 
 ---
@@ -498,19 +449,19 @@ Open_To:
 <div align="center">
 
 <a href="mailto:Krishna0211gupta@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-6D28D9?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-Krishna0211gupta%40gmail.com-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/krishnag0211">
-<img src="https://img.shields.io/badge/LinkedIn-Krishna_Gupta-4F46E5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Krishna%20Gupta-6A5ACD?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/KishanG02">
-<img src="https://img.shields.io/badge/GitHub-KishanG02-4338CA?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-KishanG02-4B0082?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Coming_Soon-312E81?style=for-the-badge"/>
+<a href="https://portfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
@@ -519,8 +470,10 @@ Open_To:
 
 <div align="center">
 
-### "Building intelligent systems that transform data into decisions and AI into business value."
+### "Engineering intelligent systems that transform ideas into scalable products."
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6D28D9,50:7C3AED,100:4F46E5"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:4B0082,50:6A5ACD,100:8A2BE2"/>
+
+<!-- Resume Source: Krishna Gupta Resume -->
